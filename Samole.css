@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+.mainDiv{
+    height: 1000px;
+    background-color: blue;
+}
+.HeaderDiv{
+    background-color: red;
+ 
+   
+}
+a{
+    color: yellow;
+}
+.Home{
+    background-color: black;
+}
+.subDiv{
+    background-color: rgb(50, 156, 205);
+}
+.subLeft{
+    background-color: rgb(9, 255, 0);
+    margin-top: 100px;
+    width: 150px;;
+}
