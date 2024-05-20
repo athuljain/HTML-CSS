@@ -1,0 +1,36 @@
+.NavBar{
+    width: 100%;
+    height: 80px;
+    background-color: red;
+    display: flex;
+    padding: 20px;
+}
+.NavLeft{
+    width: 50%;
+    height: 70px;
+    background-color: green;
+}
+.NavRight{
+    padding-left: 30px;
+    margin-left: 20px;
+    width: 50%;
+    height: 70px;
+    background-color: yellow;
+    margin-top: 10px;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body {
+    background-color: lightblue;
+  }
+  
+  .HeadH1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
