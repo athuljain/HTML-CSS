@@ -34,3 +34,8 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+  .subDiv{
+    height: 173px;
+    width: 100%;
+    background-color: blueviolet;
+  }
