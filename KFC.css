@@ -1,0 +1,88 @@
+.head
+{
+    position: fixed; 
+    width: 100%;
+    height: 50px;
+    left:0px;
+    bottom:575px;
+   text-align:center;
+   font-size: 15px;
+   font-family:  Arial, sans-serif;
+}
+.navbar
+{
+     position: fixed;
+    width: 100px;
+    height: 60px;
+    left:135px;
+    bottom:513px;
+   text-align:left;    
+} 
+.navbar img{
+    width: 100%;
+    height: 100%;
+}
+.menu
+{
+    position: fixed;
+    width: 150px;
+    height: 52px;
+    left:280px;
+    bottom:500px;
+   text-align:left;
+   font-family:  Arial, sans-serif; 
+   font-size: 15px;
+}
+.menu1
+{
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    right: 230px;
+    bottom:489px;
+   text-align:right;
+   font-family:  Arial, sans-serif; 
+   font-size: 15px;   
+}
+.cont
+{
+    /* position: fixed;  */
+ background-color: rgb(24, 13, 13);
+    width: 100%;
+    color: white;
+    height: 72px;
+    left:0%;
+ 
+    bottom:425px;
+   text-align:center;
+   font-size: 15px;
+   font-family:  Arial, sans-serif;  
+} 
+.content
+{
+    /* position: fixed; */
+    left:0px;
+    bottom:71px;
+
+
+}
+.cont1
+{
+    /* position: fixed; */
+    width: 100%;
+    color:black;
+    height: 61px;
+    left:20px;
+    bottom:10px;
+   text-align:left;
+   font-size: 15px;
+   font-family:  Arial, sans-serif;  
+}
+.card
+{
+    /* position:fixed; */
+    width: 100%;
+    height: 20px;
+    bottom: 2px;
+    border-radius: 25px;
+}
