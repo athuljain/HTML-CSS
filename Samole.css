@@ -1,6 +1,9 @@
 h1{
     color: red;
 }
+.Head4{
+    color: teal;
+}
 .mainDiv{
     height: 1000px;
     background-color: blue;
