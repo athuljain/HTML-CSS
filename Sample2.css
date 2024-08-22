@@ -1,11 +1,4 @@
-.container{
-   height: 500px;
-    background-color: rgb(186, 4, 4);
-}
-.head{
-    background-color: rgb(183, 255, 0);
-    height:90px;
-    margin-top: 30px;
-    display: flex;
-    
+.Container{
+    height: 250px;
+    background-color: blueviolet;
 }
