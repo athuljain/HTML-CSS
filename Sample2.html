@@ -4,50 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="./Sample2.css">
     <style>
-        .container{
-            background-color: red;
-        }
-        .headDiv{
-            height: 160px;
-            background-color: green;
-        }
-        .headLeft{
-            width: 40%;
-            background-color: aqua;
-        }
-        .headRight{
-            width: 50%;
-            background-color: blue;
-        }
+.HeadDiv{
+    height: 110px;
+    background-color: blue;
+    display: flex;
+}
+body{
+    margin: 0;
+}
+.LeftHead{
+    width: 45%;
+    height: 110px;
+}
+.RightHead{
+    width: 45%;
+    height: 110px;
+    background-color: brown;
+}
+
     </style>
+     
 </head>
 <body>
-    <div class="container">
+<div class="mainDiv">
 
-
-        
-        <div class="headDiv">
-
-            <div class="headLeft">
-<h1>soften</h1>
-            </div>
-
-            <div class="headRight">
-                <input>
-                <input>
-                <button>Login</button>
-
-            </div>
-
-        </div>
-
-
-
-
-
-
+<div class="HeadDiv">
+    <div class="LeftHead">
+        <h1 class="FbLogo" style="    color: white;
+    margin-left: 60px;  padding: 25px;">Facebook</h1>
 
     </div>
+    <div class="RightHead">
+
+        <input class="emailInput">
+        <input class="passInput">
+    </div>
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
 </body>
+
+
+
+
 </html>
